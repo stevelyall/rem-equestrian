@@ -53,8 +53,8 @@
     "checkout_sidebar_background_color": "#fafafa",
     "checkout_heading_font": "Helvetica Neue",
     "checkout_body_font": "Helvetica Neue",
-    "checkout_accent_color": "#1990C6",
-    "checkout_button_color": "#1990C6",
+    "checkout_accent_color": "#1990c6",
+    "checkout_button_color": "#1990c6",
     "checkout_error_color": "#ff6d6d",
     "collection_sidebar_filters": "tags",
     "sections": {
@@ -110,42 +110,21 @@
           "1488773015836": {
             "type": "image",
             "settings": {
-              "slide": "shopify:\/\/shop_images\/f14.png",
-              "link": ""
+              "slide": "shopify:\/\/shop_images\/Dry-Shampoo_a8491626-2136-4f1d-938a-490c7531f0eb.png",
+              "link": "shopify:\/\/products\/off-dr-shampoo-cham-500ml"
             }
           },
           "1488767111111": {
             "type": "image",
             "settings": {
-              "slide": "shopify:\/\/shop_images\/f7_b5b1a08b-5b8c-4bf5-a3e4-9b1ebd1bf877.png",
-              "link": ""
+              "slide": "shopify:\/\/shop_images\/Sale-pic-1_b3d135e9-6395-4b37-8649-0ecce493a141.png",
+              "link": "shopify:\/\/collections\/sale-section"
             }
           },
           "slide-1": {
             "type": "image",
             "settings": {
-              "slide": "shopify:\/\/shop_images\/Beauty_on_Beach_effeb39b-0501-4320-b7dd-92dfd1035ce1.jpg",
-              "link": ""
-            }
-          },
-          "1488767162229": {
-            "type": "image",
-            "settings": {
-              "slide": "shopify:\/\/shop_images\/f6_81a66196-0eae-4a9a-8f15-aabbde882b89.png",
-              "link": ""
-            }
-          },
-          "slide-0": {
-            "type": "image",
-            "settings": {
-              "slide": "shopify:\/\/shop_images\/F1_4376c7fc-8598-4641-9b88-571765cb9d69.png",
-              "link": ""
-            }
-          },
-          "1488775917210": {
-            "type": "image",
-            "settings": {
-              "slide": "shopify:\/\/shop_images\/f3.png",
+              "slide": "shopify:\/\/shop_images\/16.png1.png",
               "link": ""
             }
           }
@@ -153,10 +132,7 @@
         "block_order": [
           "1488773015836",
           "1488767111111",
-          "slide-1",
-          "1488767162229",
-          "slide-0",
-          "1488775917210"
+          "slide-1"
         ],
         "settings": {
           "slider_home_auto": true,
@@ -169,13 +145,13 @@
           "collection-list-0": {
             "type": "collection",
             "settings": {
-              "collection": ""
+              "collection": "halters-headcollars"
             }
           },
           "collection-list-1": {
             "type": "collection",
             "settings": {
-              "collection": ""
+              "collection": "saddle-pads"
             }
           },
           "1491183334632": {
@@ -183,40 +159,54 @@
             "settings": {
               "collection": "bits"
             }
+          },
+          "1498025548915": {
+            "type": "collection",
+            "settings": {
+              "collection": "boots-and-chaps"
+            }
+          },
+          "1498025560387": {
+            "type": "collection",
+            "settings": {
+              "collection": "accessories"
+            }
           }
         },
         "block_order": [
           "collection-list-0",
           "collection-list-1",
-          "1491183334632"
+          "1491183334632",
+          "1498025548915",
+          "1498025560387"
         ],
         "settings": {}
       },
       "collection-row-1": {
         "type": "collection-rows",
         "settings": {
-          "home_featured_row": "",
+          "home_featured_row": "jackets",
           "grid": "4",
           "product_show_saved_amount": true,
-          "product_show_compare_at_price": false
+          "product_show_compare_at_price": true
         }
       },
       "collection-row-2": {
         "type": "collection-rows",
         "settings": {
-          "home_featured_row": "",
+          "home_featured_row": "helmets",
           "grid": "4",
           "product_show_saved_amount": true,
-          "product_show_compare_at_price": false
+          "product_show_compare_at_price": true
         }
       },
       "collection-row-3": {
         "type": "collection-rows",
         "settings": {
-          "home_featured_row": "",
+          "home_featured_row": "blankets-and-rain-sheets",
           "grid": "4",
           "product_show_saved_amount": true,
-          "product_show_compare_at_price": false
+          "product_show_compare_at_price": true
         }
       },
       "collection-template": {
